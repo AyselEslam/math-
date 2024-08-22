@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(175, 208, 251);
+}
+
+#div_for_user_1, #div_for_user_2{
+    background-color: white;
+    margin-bottom: 10;
+    border-radius: 10px;
+    float: none;
+}
+
+button{
+    margin-top: 10;
+    background-color: aquamarine;
+}
+
+#div_for_answer{
+    background-color: white;
+    width: 45%;
+    border-radius: 10px;
+    border-top: 20px;
+    border-style: groove;
+    border-color: rgb(220, 0, 0);
+    margin-bottom: 15px;
+}
